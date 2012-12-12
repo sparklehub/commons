@@ -2,5 +2,5 @@ Sparkle-Hub
 ===========
 
 ```bash
-echo "...master-one..."
+echo "...master-two..."
 ```
