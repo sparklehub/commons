@@ -2,5 +2,5 @@ Sparkle-Hub
 ===========
 
 ```bash
-echo "... :: pub-sub-hub :: ..."
+echo "... :: master :: ..."
 ```
