@@ -2,5 +2,5 @@ Sparkle-Hub
 ===========
 
 ```bash
-echo "... :: ! Sparkle-Hub ! :: ..."
+echo "... :: ! * Sparkle-Hub * ! :: ..."
 ```
